@@ -7,7 +7,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 
-path = os.path.dirname(_file_)
+path = os.path.dirname(__file__)
 my_file = path+'/all_data.csv'
 all_df = pd.read_csv(my_file)
 
