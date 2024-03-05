@@ -11,4 +11,7 @@ Proses analisis data pada dataset bike sharing dataset dilakukan cleaning data d
 ## Visualisasi Data
 Pada tahap visualisasi dataset digunakan visualisasi dalam bentuk bar chart.
 
-link streamlit 
+## Conclusion
+dari pertanyaan bisnis tersebut didaptkan beberapa kesimpulan setelah dilakukan analisis data
+
+link streamlit : https://bike-sharing-analyst-data-vita.streamlit.app/
