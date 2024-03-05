@@ -1,7 +1,5 @@
 # bike-sharing-analyst
 
-# proyek-analisis-data
-
 melakukan proses analisis data terhadap dataset bike sharing dataset
 untuk menjawab pertanyaan :
 - Apakah terdapat perbedaan pola penggunaan sepeda sharing antara hari kerja dan hari libur?
